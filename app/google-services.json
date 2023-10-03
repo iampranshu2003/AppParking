@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410452263010",
+    "project_id": "finalparking-c6df2",
+    "storage_bucket": "finalparking-c6df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410452263010:android:742d411e9067c7d15cd13b",
+        "android_client_info": {
+          "package_name": "com.example.finalparking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApn40d9NLEh_AGMp65ecFYl-lqrDw5enQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
