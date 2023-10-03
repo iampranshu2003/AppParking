@@ -39,3 +39,12 @@ Parkyee relies on the following APIs:
 Parking Spot API: Fetches data for available parking spots.
 Firebase Authentication API: Manages user registration and login.
 Google Maps API: Displays nearby campus locations.
+
+sample images 
+![sample one](https://github.com/iampranshu2003/AppParking/blob/master/WhatsApp%20Image%202023-10-04%20at%2000.24.52_2ef56678.jpg)
+![sample two](https://github.com/iampranshu2003/AppParking/blob/master/WhatsApp%20Image%202023-10-04%20at%2000.35.44_b264b51d.jpg)
+![sample three](https://github.com/iampranshu2003/AppParking/blob/master/WhatsApp%20Image%202023-10-04%20at%2000.35.15_67139afb.jpg)
+
+
+
+
